@@ -23,14 +23,14 @@ A WordPress plugin that displays reviews, ratings and business information from 
 
 ## Selected projects
 
-- **Mason Electric:** service-page development, Google Business Profile optimisation and technical improvements.
-- **Shiraz Plumbing:** local SEO and WordPress development for plumbing services and service areas.
+- **[Mason Electric](https://masonelc.com/):** service-page development, Google Business Profile optimisation and technical improvements.
+- **[Shiraz Plumbing](https://shirazplumbing.com/):** local SEO and WordPress development for plumbing services and service areas.
 
-- **Quizbazi:** Persian football quiz web app and PWA, with game logic, API integration and performance work.
-- **TamirPC:** technology publication with custom WordPress theme development, RTL layouts and technical SEO.
+- **[Quizbazi](https://quizbazi.com/):** Persian football quiz web app and PWA, with game logic, API integration and performance work.
+- **[TamirPC](https://tamirpc.net/):** technology publication with custom WordPress theme development, RTL layouts and technical SEO.
 - **[Bakelasor](https://bakelasor.com):** website design.
 - **[AsanCare](https://asancare.com):** website design.
-- **PC Game Download Bot:** Telegram bot project focused on conversational UX and gaming-content organisation.
+- **[PC Game Download Bot](https://t.me/Baziepc_bot):** Telegram bot project focused on conversational UX and gaming-content organisation.
 
 Explore the work and context on my [project portfolio](https://alipourgholi.com/projects/).
 
