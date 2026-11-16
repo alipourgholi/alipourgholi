@@ -28,7 +28,7 @@ A WordPress plugin that displays reviews, ratings and business information from 
 
 - **Quizbazi:** Persian football quiz web app and PWA, with game logic, API integration and performance work.
 - **TamirPC:** technology publication with custom WordPress theme development, RTL layouts and technical SEO.
-- **[Bakelâsor](https://bakelasor.com):** website design.
+- **[Bakelasor](https://bakelasor.com):** website design.
 - **[AsanCare](https://asancare.com):** website design.
 - **PC Game Download Bot:** Telegram bot project focused on conversational UX and gaming-content organisation.
 
